@@ -57,6 +57,8 @@
 		 chown -R www-rsync:root /var/www/rsync/bak/
 		 chmod -R 700 /var/www/rsync_bak/
 
+		chown www-rsync:www-data -R /var/www/www.weixinshow.com/release_1.4/
+		chmod -R 650 /var/www/www.weixinshow.com/release_1.4/
 
 
 
@@ -64,5 +66,5 @@
 
 
 
-chown www-rsync:www-data -R /var/www/www.kuailezu.com/release_1.4/
-chmod -R 650 /var/www/www.kuailezu.com/release_1.4/
+
+
