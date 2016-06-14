@@ -53,8 +53,9 @@
 			* ssh -i /root/sshkey/www-rsync/id_rsa www-rsync@192.168.0.247
 
 	* 建立同步备份目录，并给权限
-	* chown -R www-rsync:root /var/www/rsync/bak/
-	* chmod -R 700 /var/www/rsync_bak/
+	* 
+		 chown -R www-rsync:root /var/www/rsync/bak/
+		 chmod -R 700 /var/www/rsync_bak/
 
 
 
