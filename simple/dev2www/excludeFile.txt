@@ -1,0 +1,9 @@
+*.xml
+*.log
+*.svn
+database.config.php
+Tmac.config.php
+admin.php
+var/
+*.cache
+.bat

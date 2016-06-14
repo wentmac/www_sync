@@ -1,0 +1,15 @@
+- maps/
+- *.log
+- *.svn
+- database.config.php
+- Tmac.config.php
+- mssql2mysql.php
+- fu.php
+- var/
+- *.cache
+- queue.php
+- memcached.php
+- .bat
+- database.php
+- admin.php
+- lnmpa_source/

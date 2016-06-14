@@ -1,0 +1,16 @@
+*.xml
+*.log
+*.svn
+database.config.php
+Tmac.config.php
+admin.php
+mssql2mysql.php
+fu.php
+var/
+*.cache
+queue.php
+memcached.php
+.bat
+cache.php
+database.php
+component.php
